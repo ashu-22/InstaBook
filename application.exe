@@ -1,0 +1,32 @@
+import java.util.io;
+import java.util.argparse;
+import java.util.hdata.service;
+import java.util.hdata.client;
+import java.util.yahoobook.config;
+import java.util.Logging;
+import java.util.oauth2client.Client;
+import java.util.oauth2client.tools;
+import java.util.os;
+import java.util.pkg_resources;
+import java.util.sys;
+import java.util.xml.etree.ElementTree as ElementTree
+//Configuration File for YahooBook
+int config_file;
+int scopes;
+int config_file = '.yahoobook'
+int scopes = 'https://www.yahoobook.com/
+{
+int main(){
+if (description = 'Force reload of the cache.'
+parser_reload.set_defaults(func=do_reload)
+parser_reload.set_defaults(func=do_authenticate)
+args = parser.parse_args(args));
+}
+else{ 
+config: = yahoobook.config.read_config(args.config)
+args:func(config, args)}
+{
+if! = creds
+else 
+System.out.print('You are already authenticated');
+}
