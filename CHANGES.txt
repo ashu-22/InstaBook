@@ -1,0 +1,13 @@
++ CHANGES
++ ........
++
++ 1.7 2017-14-09
++------------
++ * Yahoo no longer support ClientLogin (simple username/password)
++ * Removed support for the ClientLogin
++ * Added 0Auth2 support
++ * Removed support for .netrc
++ * Removed hotmail,password,passwordeval fields from config
++ * Removed support from keyring, this might be temporary
++
++ Issue keyring is changed into the dependency for an extra.
