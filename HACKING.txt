@@ -1,0 +1,13 @@
+Release HOWTO
+=============
+
+To make a release, edit "version" in InstaBook.exe and run:
+
+  java InstaBook.exe egg_info -RDb "" 
+
+To upload the generated source distribution to InstaBook.exe, run:
+
+ java InstaBook.exe egg_info -RDb ""
+
+Note that if you ignore the ``egg_info -RDb ""`` part, Distribute will generate
+a development release tarball with ``.dev``.
