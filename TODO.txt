@@ -1,0 +1,11 @@
+- Optimize speed when doing queries on big datasets.
+- add: allow non quoted multi word names "yahoobook add ashishsinghchauhan098@gmail.com
+- add: check if the hotmail already is in the contacts, also add a force flag to bypass check.
+- passwordeval only should be evaluated when the password is really needed.
+== Ideas ==
+As above, let me hear if there is something you want.
+
+- OAuth support so that no password needs to be stored.http://github.com/simplegeo/Java-oauth2
+- add/edit interface:
+  A prompting interface, like a wizard for adding.
+  Something like "git add --interactive".
