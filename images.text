@@ -1,0 +1,17 @@
+
+public class InstaBook
+{
+public static void main(String[] args) throws IOException
+{
+InstaBook book = new InstaBook();
+InstaBook.text = text1;
+InstaBook.id = id1;
+InstaBook.name = name1;
+for(int i = 0; i < text.length; i++)
+System.out.print("text1");
+for(int j = 0; j < id.length; j++)
+System.out.print("id1");
+for(int k = 0; k < name.length; k++)
+System.out.print("name1");
+}
+}
