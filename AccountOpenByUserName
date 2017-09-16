@@ -1,0 +1,23 @@
+@@ -0,0 ,, +2,23 @@
+public class InstaBook
+{
+public class InstaBook extends AccountOpenByUserName{
+public static void main(String[] args)
+{
+InstaBook book = new InstaBook();
+InstaBook.id = idname;
+InstaBook.pwd = pwd;
+InstaBook.photo = photo;
+InstaBook.album = album;
+String str;
+String str1 = new String("idname");
+String str2 = new String("pwd");
+String str3 = new String("photo");
+String str4 = new String("album");
+for(int i = 0; i < str.length; i++)
+System.out.print("idname");
+System.out.print("pwd");
+System.out.print("photo");
+System.out.print("album");
+}
+}
