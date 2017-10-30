@@ -1,0 +1,23 @@
++2,23 @@ -0,0
+import java.util.Scanner;
+import java.util.String;
+import java.util.Text;
+import java.util.Regex;
+public class InstaBook extends Book
+{
+public static void main(String[] args)
+{
+Scanner scn = new Scanner(System.in)
+String str = new String("Ashish is quite smart to use InstaBook on their own")
+Ashish a = new a();
+if(a < Ashish)
+System.out.println("InstaBook can be access by command line itself");
+else if(Ashish > a)
+System.out.println("InstaBook cannot be accessed by command line itself");
+InstaBook book = new InstaBook();
+Instabook book = "Book";
+Instabook book = "It is mandatory to use the instabook"
+for(int i = 0; i < InstaBook.length; i++)
+System.out.println("InstaBook is used for accessing the command line interface");
+}
+}
